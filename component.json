@@ -8,11 +8,11 @@
         "component/jquery": "*"
     },
     "development": {},
-    "scripts": {
+    "scripts": [
         "slick/slick.js": "slick.js"
-    },
-    "styles": {
+    ],
+    "styles": [
         "slick/slick.css": "slick.css",
         "slick/slick-theme.css": "slick-theme.css"
-    }
+    ]
 }
